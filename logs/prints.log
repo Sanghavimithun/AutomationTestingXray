@@ -1,0 +1,225 @@
+2023-02-08 13:58:12.738 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 13:58:16.337 [main] INFO  resources.BrowserConfigGUI - ********************************************
+2023-02-08 13:58:16.337 [main] INFO  resources.BrowserConfigGUI - Xpo New issue created in Jira with ID: LTEST-3507
+2023-02-08 13:58:16.338 [main] INFO  resources.BrowserConfigGUI - Xpo New issue URL is :https://tonalsys.atlassian.net/browse/LTEST-3507
+2023-02-08 13:58:16.338 [main] INFO  resources.BrowserConfigGUI - Xpo issuetype: E-Mail Request
+2023-02-08 13:58:16.338 [main] INFO  resources.BrowserConfigGUI - Xpo Status:New
+2023-02-08 13:58:16.338 [main] INFO  resources.BrowserConfigGUI - *******************************************
+2023-02-08 13:59:16.824 [main] INFO  resources.BrowserConfigGUI - Xpo attachments issuedetails:LTEST-3507
+2023-02-08 13:59:16.825 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 13:59:16.825 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TONAL_XPOCLMPRD_ORDERS_020820230828_LTEST-3507.csv
+2023-02-08 13:59:17.140 [main] INFO  resources.BrowserConfigGUI - Xpo issulelinks issuedetails:LTEST-3507
+2023-02-08 13:59:17.140 [main] INFO  resources.BrowserConfigGUI - Xpo Issue links are empty
+2023-02-08 13:59:17.343 [main] INFO  resources.BrowserConfigGUI - Xpo Comments is
+Uploaded file: TONAL_XPOCLMPRD_ORDERS_020820230828_LTEST-3507.csv
+2023-02-08 13:59:17.547 [main] INFO  resources.BrowserConfigGUI - Xpo status issuedetails:LTEST-3507
+2023-02-08 13:59:17.547 [main] INFO  resources.BrowserConfigGUI - Xpo Status:In Progress
+2023-02-08 14:01:29.664 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 14:01:33.503 [main] INFO  resources.BrowserConfigGUI - ********************************************
+2023-02-08 14:01:33.504 [main] INFO  resources.BrowserConfigGUI - Xpo New issue created in Jira with ID: LTEST-3508
+2023-02-08 14:01:33.504 [main] INFO  resources.BrowserConfigGUI - Xpo New issue URL is :https://tonalsys.atlassian.net/browse/LTEST-3508
+2023-02-08 14:01:33.504 [main] INFO  resources.BrowserConfigGUI - Xpo issuetype: E-Mail Request
+2023-02-08 14:01:33.504 [main] INFO  resources.BrowserConfigGUI - Xpo Status:New
+2023-02-08 14:01:33.504 [main] INFO  resources.BrowserConfigGUI - *******************************************
+2023-02-08 14:02:34.276 [main] INFO  resources.BrowserConfigGUI - Xpo attachments issuedetails:LTEST-3508
+2023-02-08 14:02:34.277 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 14:02:34.277 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TONAL_XPOCLMPRD_ORDERS_020820230832_LTEST-3508.csv
+2023-02-08 14:02:34.734 [main] INFO  resources.BrowserConfigGUI - Xpo issulelinks issuedetails:LTEST-3508
+2023-02-08 14:02:34.735 [main] INFO  resources.BrowserConfigGUI - Xpo Issue links are empty
+2023-02-08 14:02:35.123 [main] INFO  resources.BrowserConfigGUI - Xpo Comments is
+Uploaded file: TONAL_XPOCLMPRD_ORDERS_020820230832_LTEST-3508.csv
+2023-02-08 14:02:35.469 [main] INFO  resources.BrowserConfigGUI - Xpo status issuedetails:LTEST-3508
+2023-02-08 14:02:35.469 [main] INFO  resources.BrowserConfigGUI - Xpo Status:In Progress
+2023-02-08 14:35:58.312 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 14:36:01.190 [main] INFO  resources.BrowserConfigGUI - ********************************************
+2023-02-08 14:36:01.191 [main] INFO  resources.BrowserConfigGUI - Xpo New issue created in Jira with ID: LTEST-3510
+2023-02-08 14:36:01.191 [main] INFO  resources.BrowserConfigGUI - Xpo New issue URL is :https://tonalsys.atlassian.net/browse/LTEST-3510
+2023-02-08 14:36:01.191 [main] INFO  resources.BrowserConfigGUI - Xpo issuetype: E-Mail Request
+2023-02-08 14:36:01.191 [main] INFO  resources.BrowserConfigGUI - Xpo Status:New
+2023-02-08 14:36:01.191 [main] INFO  resources.BrowserConfigGUI - *******************************************
+2023-02-08 14:37:01.803 [main] INFO  resources.BrowserConfigGUI - Xpo attachments issuedetails:LTEST-3510
+2023-02-08 14:37:01.803 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 14:37:01.803 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TONAL_XPOCLMPRD_ORDERS_020820230906_LTEST-3510.csv
+2023-02-08 14:37:02.299 [main] INFO  resources.BrowserConfigGUI - Xpo issulelinks issueid:LTEST-3510
+2023-02-08 14:37:02.299 [main] INFO  resources.BrowserConfigGUI - Xpo Issue links are empty
+2023-02-08 14:37:02.618 [main] INFO  resources.BrowserConfigGUI - Xpo Comments is
+Uploaded file: TONAL_XPOCLMPRD_ORDERS_020820230906_LTEST-3510.csv
+2023-02-08 14:37:02.908 [main] INFO  resources.BrowserConfigGUI - Xpo status issueid:LTEST-3510
+2023-02-08 14:37:02.908 [main] INFO  resources.BrowserConfigGUI - Xpo Status:In Progress
+2023-02-08 14:39:29.602 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 14:39:32.508 [main] INFO  resources.BrowserConfigGUI - ********************************************
+2023-02-08 14:39:32.508 [main] INFO  resources.BrowserConfigGUI - Xpo New issue created in Jira with ID: LTEST-3511
+2023-02-08 14:39:32.508 [main] INFO  resources.BrowserConfigGUI - Xpo New issue URL is :https://tonalsys.atlassian.net/browse/LTEST-3511
+2023-02-08 14:39:32.508 [main] INFO  resources.BrowserConfigGUI - Xpo issuetype: E-Mail Request
+2023-02-08 14:39:32.508 [main] INFO  resources.BrowserConfigGUI - Xpo Status:New
+2023-02-08 14:39:32.508 [main] INFO  resources.BrowserConfigGUI - *******************************************
+2023-02-08 14:40:33.038 [main] INFO  resources.BrowserConfigGUI - Xpo attachments issuedetails:LTEST-3511
+2023-02-08 14:40:33.038 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 14:40:33.038 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TONAL_XPOCLMPRD_ORDERS_020820230910_LTEST-3511.csv
+2023-02-08 14:40:33.328 [main] INFO  resources.BrowserConfigGUI - Xpo issulelinks issueid:LTEST-3511
+2023-02-08 14:40:33.328 [main] INFO  resources.BrowserConfigGUI - Xpo Issue links are empty
+2023-02-08 14:40:33.613 [main] INFO  resources.BrowserConfigGUI - Xpo Comments is
+Uploaded file: TONAL_XPOCLMPRD_ORDERS_020820230910_LTEST-3511.csv
+2023-02-08 14:40:33.918 [main] INFO  resources.BrowserConfigGUI - Xpo status issueid:LTEST-3511
+2023-02-08 14:40:33.918 [main] INFO  resources.BrowserConfigGUI - Xpo Status:In Progress
+2023-02-08 14:46:56.656 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 14:47:03.483 [main] INFO  resources.BrowserConfigGUI - ********************************************
+2023-02-08 14:47:03.483 [main] INFO  resources.BrowserConfigGUI - Xpo New issue created in Jira with ID: LTEST-3512
+2023-02-08 14:47:03.483 [main] INFO  resources.BrowserConfigGUI - Xpo New issue URL is :https://tonalsys.atlassian.net/browse/LTEST-3512
+2023-02-08 14:47:03.483 [main] INFO  resources.BrowserConfigGUI - Xpo issuetype: E-Mail Request
+2023-02-08 14:47:03.483 [main] INFO  resources.BrowserConfigGUI - Xpo Status:New
+2023-02-08 14:47:03.483 [main] INFO  resources.BrowserConfigGUI - *******************************************
+2023-02-08 14:48:03.971 [main] INFO  resources.BrowserConfigGUI - Xpo attachments issuedetails:LTEST-3512
+2023-02-08 14:48:03.972 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 14:48:03.972 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TONAL_XPOCLMPRD_ORDERS_020820230917_LTEST-3512.csv
+2023-02-08 14:48:04.266 [main] INFO  resources.BrowserConfigGUI - Xpo issulelinks issueid:LTEST-3512
+2023-02-08 14:48:04.266 [main] INFO  resources.BrowserConfigGUI - Xpo Issue links are empty
+2023-02-08 14:48:04.500 [main] INFO  resources.BrowserConfigGUI - Xpo Comments is
+Uploaded file: TONAL_XPOCLMPRD_ORDERS_020820230917_LTEST-3512.csv
+2023-02-08 14:48:04.784 [main] INFO  resources.BrowserConfigGUI - Xpo status issueid:LTEST-3512
+2023-02-08 14:48:04.784 [main] INFO  resources.BrowserConfigGUI - Xpo Status:In Progress
+2023-02-08 14:48:04.784 [main] INFO  resources.BrowserConfigGUI - Download csv file
+2023-02-08 14:50:47.967 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 14:50:50.856 [main] INFO  resources.BrowserConfigGUI - ********************************************
+2023-02-08 14:50:50.856 [main] INFO  resources.BrowserConfigGUI - Xpo New issue created in Jira with ID: LTEST-3513
+2023-02-08 14:50:50.856 [main] INFO  resources.BrowserConfigGUI - Xpo New issue URL is :https://tonalsys.atlassian.net/browse/LTEST-3513
+2023-02-08 14:50:50.856 [main] INFO  resources.BrowserConfigGUI - Xpo issuetype: E-Mail Request
+2023-02-08 14:50:50.856 [main] INFO  resources.BrowserConfigGUI - Xpo Status:New
+2023-02-08 14:50:50.856 [main] INFO  resources.BrowserConfigGUI - *******************************************
+2023-02-08 14:51:51.459 [main] INFO  resources.BrowserConfigGUI - Xpo attachments issuedetails:LTEST-3513
+2023-02-08 14:51:51.459 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 14:51:51.459 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TONAL_XPOCLMPRD_ORDERS_020820230921_LTEST-3513.csv
+2023-02-08 14:51:51.703 [main] INFO  resources.BrowserConfigGUI - Xpo issulelinks issueid:LTEST-3513
+2023-02-08 14:51:51.703 [main] INFO  resources.BrowserConfigGUI - Xpo Issue links are empty
+2023-02-08 14:51:51.973 [main] INFO  resources.BrowserConfigGUI - Xpo Comments is
+Uploaded file: TONAL_XPOCLMPRD_ORDERS_020820230921_LTEST-3513.csv
+2023-02-08 14:51:52.259 [main] INFO  resources.BrowserConfigGUI - Xpo status issueid:LTEST-3513
+2023-02-08 14:51:52.259 [main] INFO  resources.BrowserConfigGUI - Xpo Status:In Progress
+2023-02-08 14:55:14.361 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 14:55:17.342 [main] INFO  resources.BrowserConfigGUI - ********************************************
+2023-02-08 14:55:17.342 [main] INFO  resources.BrowserConfigGUI - Xpo New issue created in Jira with ID: LTEST-3514
+2023-02-08 14:55:17.342 [main] INFO  resources.BrowserConfigGUI - Xpo New issue URL is :https://tonalsys.atlassian.net/browse/LTEST-3514
+2023-02-08 14:55:17.342 [main] INFO  resources.BrowserConfigGUI - Xpo issuetype: E-Mail Request
+2023-02-08 14:55:17.342 [main] INFO  resources.BrowserConfigGUI - Xpo Status:New
+2023-02-08 14:55:17.342 [main] INFO  resources.BrowserConfigGUI - *******************************************
+2023-02-08 14:56:18.008 [main] INFO  resources.BrowserConfigGUI - Xpo attachments issuedetails:LTEST-3514
+2023-02-08 14:56:18.008 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-02-08 14:56:18.236 [main] INFO  resources.BrowserConfigGUI - Xpo issulelinks issueid:LTEST-3514
+2023-02-08 14:56:18.236 [main] INFO  resources.BrowserConfigGUI - Xpo Issue links are empty
+2023-02-08 14:56:18.539 [main] INFO  resources.BrowserConfigGUI - Xpo Comments is
+Could not find matching attachment for ticket LTEST-3514
+2023-02-08 14:56:18.829 [main] INFO  resources.BrowserConfigGUI - Xpo status issueid:LTEST-3514
+2023-02-08 14:56:18.829 [main] INFO  resources.BrowserConfigGUI - Xpo Status:Investigate
+2023-02-08 14:56:18.829 [main] INFO  resources.BrowserConfigGUI - could not find any csv file
+2023-02-09 11:19:33.987 [main] INFO  resources.BrowserConfigGUI - localFile D:\Logistics automation\Logistics\ShippingConfirmationFiles\Gilbert 2.0\A023SC_20220729173010.csv
+2023-02-09 11:19:44.678 [main] INFO  resources.BrowserConfigGUI - Done
+2023-02-09 11:20:44.753 [main] INFO  resources.BrowserConfigGUI - JQLproject = 'LTEST' AND text ~ A023SC_20220729173010.csv ORDER BY created DESC
+2023-02-09 11:20:46.933 [main] INFO  resources.BrowserConfigGUI - Jira Issue Id:  LTEST-3389
+2023-02-09 11:20:46.934 [main] INFO  resources.BrowserConfigGUI - Summary:  GIL SC: A023SC_20220729173010.csv
+2023-02-09 11:20:46.943 [main] INFO  resources.BrowserConfigGUI - localFile D:\Logistics automation\Logistics\ShippingConfirmationFiles\Gilbert 2.0\C007SC_20220728153020.csv
+2023-02-09 11:20:53.968 [main] INFO  resources.BrowserConfigGUI - Done
+2023-02-09 11:21:53.977 [main] INFO  resources.BrowserConfigGUI - JQLproject = 'LTEST' AND text ~ C007SC_20220728153020.csv ORDER BY created DESC
+2023-02-09 11:21:54.706 [main] INFO  resources.BrowserConfigGUI - Jira Issue Id:  LTEST-3391
+2023-02-09 11:21:54.707 [main] INFO  resources.BrowserConfigGUI - Summary:  GIL SC: C007SC_20220728153020.csv
+2023-02-09 11:21:54.713 [main] INFO  resources.BrowserConfigGUI - JQLproject = 'LTEST' AND text ~ 'RYD ODS' ORDER BY created DESC
+2023-02-09 11:21:56.555 [main] INFO  resources.BrowserConfigGUI - Jira Issue Id:  LTEST-3433
+2023-02-09 11:21:56.555 [main] INFO  resources.BrowserConfigGUI - Summary:  RYD ODS: New Orders - ODS - 20230206_15:35:56.csv
+2023-02-09 11:21:56.561 [main] INFO  resources.BrowserConfigGUI - Trying to connect.....
+2023-02-09 11:22:05.794 [main] INFO  resources.BrowserConfigGUI - File name is ....New Orders - ODS - 20230206_15:35:56.csv
+2023-02-09 11:22:05.794 [main] INFO  resources.BrowserConfigGUI - Done !!
+2023-02-09 11:22:05.799 [main] INFO  resources.BrowserConfigGUI - 2023-02-09
+2023-03-30 16:55:05.940 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+INPUT-FILE NEW XPO RMA Order Upload-2022-08-11-14-42-09 (1).xlsx
+2023-03-30 16:57:51.814 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+INPUT-FILE NEW XPO RMA Order Upload-2022-08-11-14-42-09 (1).xlsx
+2023-03-30 16:57:54.784 [main] INFO  resources.BrowserConfigGUI - ********************************************
+2023-03-30 16:57:54.784 [main] INFO  resources.BrowserConfigGUI - Xpo New issue created in Jira with ID: LTEST-3936
+2023-03-30 16:57:54.784 [main] INFO  resources.BrowserConfigGUI - Xpo New issue URL is :https://tonalsys.atlassian.net/browse/LTEST-3936
+2023-03-30 16:57:54.784 [main] INFO  resources.BrowserConfigGUI - Xpo issuetype: E-Mail Request
+2023-03-30 16:57:54.785 [main] INFO  resources.BrowserConfigGUI - Xpo Status:New
+2023-03-30 16:57:54.785 [main] INFO  resources.BrowserConfigGUI - *******************************************
+2023-03-30 16:58:55.409 [main] INFO  resources.BrowserConfigGUI - Xpo attachments issuedetails:LTEST-3936
+2023-03-30 16:58:55.409 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :INPUT-FILE NEW XPO RMA Order Upload-2022-08-11-14-42-09 (1).xlsx
+2023-03-30 16:58:55.409 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TONAL_XPOCLMPRD_ORDERS_033020231127_LTEST-3936.csv
+2023-03-30 16:58:55.739 [main] INFO  resources.BrowserConfigGUI - Xpo issulelinks issueid:LTEST-3936
+2023-03-30 16:58:55.742 [main] INFO  resources.BrowserConfigGUI - Xpo Issue links are empty
+2023-03-30 16:58:56.102 [main] INFO  resources.BrowserConfigGUI - Xpo Comments is
+Uploaded file: TONAL_XPOCLMPRD_ORDERS_033020231127_LTEST-3936.csv
+2023-03-30 16:58:56.382 [main] INFO  resources.BrowserConfigGUI - Xpo status issueid:LTEST-3936
+2023-03-30 16:58:56.382 [main] INFO  resources.BrowserConfigGUI - Xpo Status:In Progress
+2023-03-30 16:58:56.384 [main] INFO  resources.BrowserConfigGUI - could not find any csv file
+2023-03-30 16:58:56.402 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-03-30 16:58:58.407 [main] INFO  resources.BrowserConfigGUI - ********************************************
+2023-03-30 16:58:58.407 [main] INFO  resources.BrowserConfigGUI - Xpo New issue created in Jira with ID: LTEST-3937
+2023-03-30 16:58:58.407 [main] INFO  resources.BrowserConfigGUI - Xpo New issue URL is :https://tonalsys.atlassian.net/browse/LTEST-3937
+2023-03-30 16:58:58.407 [main] INFO  resources.BrowserConfigGUI - Xpo issuetype: E-Mail Request
+2023-03-30 16:58:58.407 [main] INFO  resources.BrowserConfigGUI - Xpo Status:New
+2023-03-30 16:58:58.407 [main] INFO  resources.BrowserConfigGUI - *******************************************
+2023-03-30 16:59:59.179 [main] INFO  resources.BrowserConfigGUI - Xpo attachments issuedetails:LTEST-3937
+2023-03-30 16:59:59.179 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TEST NEW XPO RMA Order Upload-2022-09-08-20-49-09 (1).xlsx
+2023-03-30 16:59:59.707 [main] INFO  resources.BrowserConfigGUI - Xpo issulelinks issueid:LTEST-3937
+2023-03-30 16:59:59.707 [main] INFO  resources.BrowserConfigGUI - Xpo Issue links are empty
+2023-03-30 17:00:00.322 [main] INFO  resources.BrowserConfigGUI - Xpo Comments is
+Could not find matching attachment for ticket LTEST-3937
+2023-03-30 17:00:00.665 [main] INFO  resources.BrowserConfigGUI - Xpo status issueid:LTEST-3937
+2023-03-30 17:00:00.665 [main] INFO  resources.BrowserConfigGUI - Xpo Status:Investigate
+2023-03-30 17:00:00.665 [main] INFO  resources.BrowserConfigGUI - could not find any csv file
+2023-03-30 17:00:00.673 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+TEST NEW XPO RMA Order Upload-2022-09-26-15-53-00.xlsx
+2023-03-30 17:00:03.483 [main] INFO  resources.BrowserConfigGUI - ********************************************
+2023-03-30 17:00:03.483 [main] INFO  resources.BrowserConfigGUI - Xpo New issue created in Jira with ID: LTEST-3938
+2023-03-30 17:00:03.483 [main] INFO  resources.BrowserConfigGUI - Xpo New issue URL is :https://tonalsys.atlassian.net/browse/LTEST-3938
+2023-03-30 17:00:03.483 [main] INFO  resources.BrowserConfigGUI - Xpo issuetype: E-Mail Request
+2023-03-30 17:00:03.483 [main] INFO  resources.BrowserConfigGUI - Xpo Status:New
+2023-03-30 17:00:03.483 [main] INFO  resources.BrowserConfigGUI - *******************************************
+2023-03-30 17:01:04.126 [main] INFO  resources.BrowserConfigGUI - Xpo attachments issuedetails:LTEST-3938
+2023-03-30 17:01:04.126 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TEST NEW XPO RMA Order Upload-2022-09-26-15-53-00.xlsx
+2023-03-30 17:01:04.450 [main] INFO  resources.BrowserConfigGUI - Xpo issulelinks issueid:LTEST-3938
+2023-03-30 17:01:04.450 [main] INFO  resources.BrowserConfigGUI - Xpo Issue links are empty
+2023-03-30 17:01:05.038 [main] INFO  resources.BrowserConfigGUI - Xpo Comments is
+Missing serial numbers in  the orders  [1000315984-RMA, 1000628904-RMA, 1000558960-RMA, 1000585373-RMA, 1000432113-RMA-4, 1000626083-RMA]
+2023-03-30 17:01:05.342 [main] INFO  resources.BrowserConfigGUI - Xpo status issueid:LTEST-3938
+2023-03-30 17:01:05.342 [main] INFO  resources.BrowserConfigGUI - Xpo Status:Investigate
+2023-03-30 17:01:05.342 [main] INFO  resources.BrowserConfigGUI - could not find any csv file
+2023-03-30 17:01:05.357 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+TEST NEW XPO RMA Order Upload-2022-09-26-15-53-29.xlsx
+2023-03-30 17:01:08.181 [main] INFO  resources.BrowserConfigGUI - ********************************************
+2023-03-30 17:01:08.181 [main] INFO  resources.BrowserConfigGUI - Xpo New issue created in Jira with ID: LTEST-3939
+2023-03-30 17:01:08.181 [main] INFO  resources.BrowserConfigGUI - Xpo New issue URL is :https://tonalsys.atlassian.net/browse/LTEST-3939
+2023-03-30 17:01:08.181 [main] INFO  resources.BrowserConfigGUI - Xpo issuetype: E-Mail Request
+2023-03-30 17:01:08.181 [main] INFO  resources.BrowserConfigGUI - Xpo Status:New
+2023-03-30 17:01:08.181 [main] INFO  resources.BrowserConfigGUI - *******************************************
+2023-03-30 17:02:09.234 [main] INFO  resources.BrowserConfigGUI - Xpo attachments issuedetails:LTEST-3939
+2023-03-30 17:02:09.234 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TEST NEW XPO RMA Order Upload-2022-09-26-15-53-29.xlsx
+2023-03-30 17:02:09.651 [main] INFO  resources.BrowserConfigGUI - Xpo issulelinks issueid:LTEST-3939
+2023-03-30 17:02:09.651 [main] INFO  resources.BrowserConfigGUI - Xpo Issue links are empty
+2023-03-30 17:02:09.972 [main] INFO  resources.BrowserConfigGUI - Xpo Comments is
+Missing serial numbers in  the orders  [1000626544-RMA, 1000063261-RMA-2, 1000564959-RMA-2]
+2023-03-30 17:02:10.419 [main] INFO  resources.BrowserConfigGUI - Xpo status issueid:LTEST-3939
+2023-03-30 17:02:10.419 [main] INFO  resources.BrowserConfigGUI - Xpo Status:Investigate
+2023-03-30 17:02:10.419 [main] INFO  resources.BrowserConfigGUI - could not find any csv file
+2023-03-30 17:02:10.419 [main] INFO  resources.BrowserConfigGUI - Xpofilename for attaching input file
+TEST NEW XPO RMA Order Upload-2022-09-26-15-54-11.xlsx
+2023-03-30 17:02:13.894 [main] INFO  resources.BrowserConfigGUI - ********************************************
+2023-03-30 17:02:13.900 [main] INFO  resources.BrowserConfigGUI - Xpo New issue created in Jira with ID: LTEST-3940
+2023-03-30 17:02:13.900 [main] INFO  resources.BrowserConfigGUI - Xpo New issue URL is :https://tonalsys.atlassian.net/browse/LTEST-3940
+2023-03-30 17:02:13.900 [main] INFO  resources.BrowserConfigGUI - Xpo issuetype: E-Mail Request
+2023-03-30 17:02:13.900 [main] INFO  resources.BrowserConfigGUI - Xpo Status:New
+2023-03-30 17:02:13.900 [main] INFO  resources.BrowserConfigGUI - *******************************************
+2023-03-30 17:03:14.671 [main] INFO  resources.BrowserConfigGUI - Xpo attachments issuedetails:LTEST-3940
+2023-03-30 17:03:14.671 [main] INFO  resources.BrowserConfigGUI - Xpo attachments Filename :TEST NEW XPO RMA Order Upload-2022-09-26-15-54-11.xlsx
+2023-03-30 17:03:15.094 [main] INFO  resources.BrowserConfigGUI - Xpo issulelinks issueid:LTEST-3940
+2023-03-30 17:03:15.094 [main] INFO  resources.BrowserConfigGUI - Xpo Issue links are empty
+2023-03-30 17:03:15.811 [main] INFO  resources.BrowserConfigGUI - Xpo Comments is
+Missing serial numbers in  the orders  [1000607522-RMA, 1000190929-RMA, 1000571974-RMA]
+2023-03-30 17:03:16.155 [main] INFO  resources.BrowserConfigGUI - Xpo status issueid:LTEST-3940
+2023-03-30 17:03:16.155 [main] INFO  resources.BrowserConfigGUI - Xpo Status:Investigate
+2023-03-30 17:03:16.155 [main] INFO  resources.BrowserConfigGUI - could not find any csv file

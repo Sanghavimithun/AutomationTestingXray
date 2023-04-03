@@ -1,0 +1,31 @@
+order_no,Alt_ref,AccountID,pickup_date,service_type,deliver_date,pickup_comments,delivery_busname,delivery_email,delivery_firstname,delivery_lastname,delivery_addr1,delivery_addr2,delivery_city,delivery_state,delivery_zip,delivery_country,delivery_phone,delivery_comments,item_no,item_desc,item_qty,item_weight,item_height,item_length,item_width,trailer_number,pickup_id,Serial,Masterbarcode,Customer_ID,freighttype,invoicegroup
+1000437118-RMA,,297,,WGCE,,,,ehopp3r1@gmail.com,Eric,Hopper,989 Arbor Crowne Drive,,Lawrenceville,GA,30045,US,770-365-4916,,150-0016,"TRAINER, T-800 KIT (B-STK) W/SIDE BOLTS AND BATTERIES",1,,,,,081122-BULKRMAXPOATLE,,,,,C,TON01
+1000437118-RMA-R,,297,,PUE,,,,ehopp3r1@gmail.com,Eric,Hopper,989 Arbor Crowne Drive,,Lawrenceville,GA,30045,US,770-365-4916,,100-0002-RMA,Trainer,1,,,,,081122-BULKRMAXPOATLE,,2051274,,,N,TON01
+1000450423-RMA,,297,,WGCE,,,,healthybrown@gmail.com,Justin,Brown,2829 riverside dr,,Waterford,MI,48329,US,248-346-9997,,150-0016,"TRAINER, T-800 KIT (B-STK) W/SIDE BOLTS AND BATTERIES",1,,,,,081122-BULKRMAXPODTWE,,,,,C,TON01
+1000450423-RMA-R,,297,,PUE,,,,healthybrown@gmail.com,Justin,Brown,2829 riverside dr,,Waterford,MI,48329,US,248-346-9997,,100-0002-RMA,Trainer,1,,,,,081122-BULKRMAXPODTWE,,2055925,,,N,TON01
+13377114-RMA,,297,,WGCE,,,,hawkinsjames74@gmail.com,James,Hawkins,28911 crested butte drive,,Katy,TX,77494,US,832-279-8737,,150-0016,"TRAINER, T-800 KIT (B-STK) W/SIDE BOLTS AND BATTERIES",1,,,,,081122-BULKRMAXPOIAHE,,,,,C,TON01
+13377114-RMA-R,,297,,PUE,,,,hawkinsjames74@gmail.com,James,Hawkins,28911 crested butte drive,,Katy,TX,77494,US,832-279-8737,,100-0001,Trainer,1,,,,,081122-BULKRMAXPOIAHE,,5067,,,N,TON01
+1000551434-RMA,,297,,WGCE,,,,ophinaaesthetics@gmail.com,Melinda,Pipes,6836 Greeson Lane,,Plainfield,IN,46168,US,317-289-1394,,100-0002,Trainer,1,,,,,081122-BULKRMAXPOINDG,,,,,C,
+1000551434-RMA,,297,,WGCE,,,,ophinaaesthetics@gmail.com,Melinda,Pipes,6836 Greeson Lane,,Plainfield,IN,46168,US,317-289-1394,,121-0006,BASIC BAR EN/FR,1,,,,,081122-BULKRMAXPOINDG,,,,,C,
+1000551434-RMA,,297,,WGCE,,,,ophinaaesthetics@gmail.com,Melinda,Pipes,6836 Greeson Lane,,Plainfield,IN,46168,US,317-289-1394,,121-0007,"BENCH ASSEMBLY, EN/FR",1,,,,,081122-BULKRMAXPOINDG,,,,,C,
+1000551434-RMA,,297,,WGCE,,,,ophinaaesthetics@gmail.com,Melinda,Pipes,6836 Greeson Lane,,Plainfield,IN,46168,US,317-289-1394,,160-0003,Accessories Combo Kit,1,,,,,081122-BULKRMAXPOINDG,,,,,C,
+1000551434-RMA,,297,,WGCE,,,,ophinaaesthetics@gmail.com,Melinda,Pipes,6836 Greeson Lane,,Plainfield,IN,46168,US,317-289-1394,,150-0005,Installation Kit,1,,,,,081122-BULKRMAXPOINDG,,,,,C,
+1000534031-RMA,,297,,WGCE,,,,justinspeed55@gmail.com,Samantha,Speed,19196 Wildoak Lane,,Ponchatoula,LA,70454,US,601-765-7438,,100-0002,Trainer,1,,,,,081122-BULKRMAXPOMSYG,,,,,C,
+1000534031-RMA,,297,,WGCE,,,,justinspeed55@gmail.com,Samantha,Speed,19196 Wildoak Lane,,Ponchatoula,LA,70454,US,601-765-7438,,121-0006,BASIC BAR EN/FR,1,,,,,081122-BULKRMAXPOMSYG,,,,,C,
+1000534031-RMA,,297,,WGCE,,,,justinspeed55@gmail.com,Samantha,Speed,19196 Wildoak Lane,,Ponchatoula,LA,70454,US,601-765-7438,,121-0007,"BENCH ASSEMBLY, EN/FR",1,,,,,081122-BULKRMAXPOMSYG,,,,,C,
+1000534031-RMA,,297,,WGCE,,,,justinspeed55@gmail.com,Samantha,Speed,19196 Wildoak Lane,,Ponchatoula,LA,70454,US,601-765-7438,,160-0003,Accessories Combo Kit,1,,,,,081122-BULKRMAXPOMSYG,,,,,C,
+1000534031-RMA,,297,,WGCE,,,,justinspeed55@gmail.com,Samantha,Speed,19196 Wildoak Lane,,Ponchatoula,LA,70454,US,601-765-7438,,150-0005,Installation Kit,1,,,,,081122-BULKRMAXPOMSYG,,,,,C,
+1000497077-RMA-2,,297,,WGCE,,,,karim.ahmed@gmail.com,Karim,Ahmed,3600 Conshohocken Ave,,Philadelphia,PA,19131,US,267-374-2731,,100-0002,Trainer,1,,,,,081122-BULKRMAXPOPHLG,,,,,C,TON01
+1000497077-RMA-2,,297,,WGCE,,,,karim.ahmed@gmail.com,Karim,Ahmed,3600 Conshohocken Ave,,Philadelphia,PA,19131,US,267-374-2731,,150-0007,"Kit, Trainer Side Bolts",1,,,,,081122-BULKRMAXPOPHLG,,,,,C,TON01
+1000497077-RMA-2-R,,297,,PUE,,,,karim.ahmed@gmail.com,Karim,Ahmed,3600 Conshohocken Ave,,Philadelphia,PA,19131,US,267-374-2731,,100-0001,Trainer,1,,,,,081122-BULKRMAXPOPHLG,,02086806,,,N,TON01
+1000379832-RMA,,297,,WGCE,,,,gmorenojr@ymail.com,Gilbert,Moreno,29055 N 124th dr,,Peoria,AZ,85383,US,623-693-2574,,150-0016,"TRAINER, T-800 KIT (B-STK) W/SIDE BOLTS AND BATTERIES",1,,,,,081122-BULKRMAXPOPHXE,,,,,C,TON01
+1000379832-RMA-R,,297,,PUE,,,,gmorenojr@ymail.com,Gilbert,Moreno,29055 N 124th dr,,Peoria,AZ,85383,US,623-693-2574,,100-0002-RMA,Trainer,1,,,,,081122-BULKRMAXPOPHXE,,2028099,,,N,TON01
+10687-RMA-2,,297,,WGCE,,,,julienawad@hotmail.com,Julien,Awad,8939 132nd Pl SE,,Newcastle,WA,98059,USA,206-331-8830,,150-0016,"TRAINER, T-800 KIT (B-STK) W/SIDE BOLTS AND BATTERIES",1,,,,,081122-BULKRMAXPOSEAE,,,,,C,TON01
+10687-RMA-2-R,,297,,PUE,,,,julienawad@hotmail.com,Julien,Awad,8939 132nd Pl SE,,Newcastle,WA,98059,USA,206-331-8830,,100-0001,Trainer,1,,,,,081122-BULKRMAXPOSEAE,,2081,,,N,TON01
+01297648-RMA,,297,,WGCE,,,,amarin02@gmail.com,Luz,Mora,15116 Heronglen Drive,,Lithia,FL,33547,US,973-309-6057,,150-0016,"TRAINER, T-800 KIT (B-STK) W/SIDE BOLTS AND BATTERIES",1,,,,,081122-BULKRMAXPOTPAE,,,,,C,TON01
+01297648-RMA-R,,297,,PUE,,,,amarin02@gmail.com,Luz,Mora,15116 Heronglen Drive,,Lithia,FL,33547,US,973-309-6057,,100-0001,Trainer,1,,,,,081122-BULKRMAXPOTPAE,,4320,,,N,TON01
+1000590297-RMA,,297,,WGCE,,,,aprabhath92@gmail.com,Prabhath,Aluthgama,8750 Stonehouse Drive,,Ellicott City,MD,21043,US,202-290-0226,,100-0002,Trainer,1,,,,,081122-BULKRMAXPOWI2G,,,,,C,
+1000590297-RMA,,297,,WGCE,,,,aprabhath92@gmail.com,Prabhath,Aluthgama,8750 Stonehouse Drive,,Ellicott City,MD,21043,US,202-290-0226,,121-0006,BASIC BAR EN/FR,1,,,,,081122-BULKRMAXPOWI2G,,,,,C,
+1000590297-RMA,,297,,WGCE,,,,aprabhath92@gmail.com,Prabhath,Aluthgama,8750 Stonehouse Drive,,Ellicott City,MD,21043,US,202-290-0226,,121-0007,"BENCH ASSEMBLY, EN/FR",1,,,,,081122-BULKRMAXPOWI2G,,,,,C,
+1000590297-RMA,,297,,WGCE,,,,aprabhath92@gmail.com,Prabhath,Aluthgama,8750 Stonehouse Drive,,Ellicott City,MD,21043,US,202-290-0226,,160-0003,Accessories Combo Kit,1,,,,,081122-BULKRMAXPOWI2G,,,,,C,
+1000590297-RMA,,297,,WGCE,,,,aprabhath92@gmail.com,Prabhath,Aluthgama,8750 Stonehouse Drive,,Ellicott City,MD,21043,US,202-290-0226,,150-0005,Installation Kit,1,,,,,081122-BULKRMAXPOWI2G,,,,,C,
