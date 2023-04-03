@@ -1,4 +1,4 @@
-package logisticsPasoSftpTest;
+package logisticsGilbertSftpTest;
 
 import java.io.File;
 import java.io.IOException;
@@ -11,6 +11,8 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
+import logisticsPasoSftpTest.PasoSftpDatabaseTest;
+import logisticsPasoSftpTest.PasoSftpFileUploadTest;
 import net.rcarz.jiraclient.BasicCredentials;
 import net.rcarz.jiraclient.Issue;
 import net.rcarz.jiraclient.Issue.SearchResult;
@@ -18,7 +20,7 @@ import net.rcarz.jiraclient.JiraClient;
 import net.rcarz.jiraclient.JiraException;
 import resources.BrowserConfigGUI;
 
-public class PasoShippingConfirmationLogicsTest extends BrowserConfigGUI {
+public class SOShippingConfirmationLogics extends BrowserConfigGUI {
 
 	private JiraClient Jira;
 	private String project = "LTEST";
@@ -30,7 +32,7 @@ public class PasoShippingConfirmationLogicsTest extends BrowserConfigGUI {
 	@DataProvider(name = "data-provider")
 	public Object[][] filesList() {
 
-		File folder = new File(System.getProperty("user.dir") + "\\ShippingConfirmationFiles\\PASO\\PASO SC files");
+		File folder = new File(System.getProperty("user.dir") + "\\ShippingConfirmationFiles\\Gilbert 2.0");
 		File[] listOfFiles = folder.listFiles();
 		Object[][] data = new Object[listOfFiles.length][listOfFiles.length];
 		int i = 0;
@@ -39,7 +41,7 @@ public class PasoShippingConfirmationLogicsTest extends BrowserConfigGUI {
 			data[i] = aTest;
 			i++;
 		}
-		// System.out.println("DATA SIZE" + Arrays.deepToString(data));
+		// log.info("DATA SIZE" + Arrays.deepToString(data));
 		return data;
 
 	}
@@ -96,14 +98,14 @@ public class PasoShippingConfirmationLogicsTest extends BrowserConfigGUI {
 	public void sftp() throws JiraException, InterruptedException {
 
 		// Thread.sleep(10000);
-		PasoSftpFiledownloadTest sftp = new PasoSftpFiledownloadTest();
+		SOSftpFiledownload sftp = new SOSftpFiledownload();
 		sftp.downloadSftpFile();
 	}
 
 	@Test(priority = 4)
 	public void db() throws JiraException, InterruptedException, SQLException {
 
-		// Thread.sleep(10000);
+		//Thread.sleep(10000);
 		SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
 		Date date = new Date(System.currentTimeMillis());
 		String currentDate = simpleDateFormat.format(date);

@@ -63,7 +63,7 @@ public class SOJiraTicketCreationTest extends BrowserConfigGUI {
 
 		log.info(file.getName());
 		ShippingOrderLogics jiraServiceProvider = new ShippingOrderLogics("https://tonalsys.atlassian.net",
-				"sanghavi.mithun@tonal.com", "fzFiLGhER00CyWRlRJekFD15", "LTEST");
+				"sanghavi.mithun@tonal.com", "ATATT3xFfGF0To2NFcB7X7ab19c0siRcWbomz2lo70vT-gslcxNIJ7i9ee2V0oCC55SZNksVWUw1lqGLAGc9cIE8TeeYEBgR9MljaTMuNIEH98VUFCQojM9ZS72oHKKA2trO2wPEHpJpFg9hdHUHbyU0Ku_k_OzHUwDfH_KIDfxvsbLVRxvHxB8=CCF8ED14", "LTEST");
 		
 		String issueDescription = "Automation Testing";
 		String orderId = String.valueOf(System.currentTimeMillis());

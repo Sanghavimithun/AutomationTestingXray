@@ -63,7 +63,7 @@ public class XpoJiraTicketCreationTest extends BrowserConfigGUI {
 
 		log.info("Xpofilename for attaching input file" + "\n" + file.getName());
 		XpoShippingOrderLogics jiraServiceProvider = new XpoShippingOrderLogics("https://tonalsys.atlassian.net",
-				"sanghavi.mithun@tonal.com", "ATATT3xFfGF0nshooRbTtHsNkMqPgLZ1ISz5gfhW8SVtfNE7uErAY5pzftbVLyg6xTcgbPBNQUuzrWVMLWRE_Tz7LnBzFiXAhB3tRzFsjhjqoRdcdWmTtYWwTqxQxT7TocyI4MELucA-IqEyTqXrivNu343S6BmapRh-QrH7mvzuL9O7IuyVhgY=EA14EA3D", "LTEST");
+				"sanghavi.mithun@tonal.com", "ATATT3xFfGF0To2NFcB7X7ab19c0siRcWbomz2lo70vT-gslcxNIJ7i9ee2V0oCC55SZNksVWUw1lqGLAGc9cIE8TeeYEBgR9MljaTMuNIEH98VUFCQojM9ZS72oHKKA2trO2wPEHpJpFg9hdHUHbyU0Ku_k_OzHUwDfH_KIDfxvsbLVRxvHxB8=CCF8ED14", "LTEST");
 
 		String issueDescription = "Automation Testing";
 		String orderId = String.valueOf(System.currentTimeMillis());

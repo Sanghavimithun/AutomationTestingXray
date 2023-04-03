@@ -2,7 +2,7 @@ package logisticsExcelTest;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class ExcelTestSample {
+public class ExcelSample {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub

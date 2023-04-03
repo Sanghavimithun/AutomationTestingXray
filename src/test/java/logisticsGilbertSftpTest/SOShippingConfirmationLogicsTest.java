@@ -59,7 +59,7 @@ public class SOShippingConfirmationLogicsTest extends BrowserConfigGUI {
 		Thread.sleep(60000);
 		String jql;
 		jql = "project = 'LTEST' AND text ~ " + fileName + " ORDER BY created DESC";
-		searchJiraIssues("https://tonalsys.atlassian.net", "sanghavi.mithun@tonal.com", "fzFiLGhER00CyWRlRJekFD15",
+		searchJiraIssues("https://tonalsys.atlassian.net", "sanghavi.mithun@tonal.com", "ATATT3xFfGF0nshooRbTtHsNkMqPgLZ1ISz5gfhW8SVtfNE7uErAY5pzftbVLyg6xTcgbPBNQUuzrWVMLWRE_Tz7LnBzFiXAhB3tRzFsjhjqoRdcdWmTtYWwTqxQxT7TocyI4MELucA-IqEyTqXrivNu343S6BmapRh-QrH7mvzuL9O7IuyVhgY=EA14EA3D",
 				"LTEST", jql);
 
 	}
@@ -89,7 +89,7 @@ public class SOShippingConfirmationLogicsTest extends BrowserConfigGUI {
 
 		// Thread.sleep(20000);
 		String jql1 = "project = 'LTEST' AND text ~ 'RYD ODS' ORDER BY created DESC";
-		searchJiraIssues("https://tonalsys.atlassian.net", "sanghavi.mithun@tonal.com", "fzFiLGhER00CyWRlRJekFD15",
+		searchJiraIssues("https://tonalsys.atlassian.net", "sanghavi.mithun@tonal.com", "ATATT3xFfGF0nshooRbTtHsNkMqPgLZ1ISz5gfhW8SVtfNE7uErAY5pzftbVLyg6xTcgbPBNQUuzrWVMLWRE_Tz7LnBzFiXAhB3tRzFsjhjqoRdcdWmTtYWwTqxQxT7TocyI4MELucA-IqEyTqXrivNu343S6BmapRh-QrH7mvzuL9O7IuyVhgY=EA14EA3D",
 				"LTEST", jql1);
 
 	}
@@ -98,7 +98,7 @@ public class SOShippingConfirmationLogicsTest extends BrowserConfigGUI {
 	public void sftp() throws JiraException, InterruptedException {
 
 		// Thread.sleep(10000);
-		SOSftpFiledownloadTest sftp = new SOSftpFiledownloadTest();
+		SOSftpFiledownload sftp = new SOSftpFiledownload();
 		sftp.downloadSftpFile();
 	}
 
