@@ -8,7 +8,7 @@
 
 <test thread-count="5" name="Tests">
     <classes>
-      <class name="logisticsXPOTest.XpoJiraTicketCreationTest"/>
+      <class name="logisticsDbTest.PostgreSql"/>
     </classes>
  </test> <!-- Test -->
 </suite> <!-- Suite -->
