@@ -57,7 +57,7 @@ e.printStackTrace();
 @Test
 public void test() throws SQLException {
 	
-	//String query1 = "SELECT COUNT(*) from mes.fs_installations";
+	//String query1 = "SELECT COUNT(*) from mes.fs_installation";
 	String query = "Select *from mes.log_files";
 	ResultSet rs = stmt.executeQuery(query);
 	ResultSetMetaData rsmd = rs.getMetaData();
