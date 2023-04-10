@@ -28,7 +28,7 @@ private static Statement stmt;
 public static String DB_URL = "jdbc:postgresql://test-mfg-db-cluster.cluster-cc7tvcrs2tnk.us-east-2.rds.amazonaws.com:5432/dmtest1";
 
 //Database Username
-public static String DB_USER = "qa_test";
+public static String DB_USER = "qa";
 
 //Database Password
 public static String DB_PASSWORD = "1234";
