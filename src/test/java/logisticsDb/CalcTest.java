@@ -41,7 +41,7 @@ public class CalcTest {
     @Test
     public void CanAddNumbers()
     {
-        assertEquals(calc.add(2, 3),5);
+        assertEquals(calc.add(2, 3),4);
         assertEquals(calc.add(-1, 1),0);
 //        ITestResult result = Reporter.getCurrentTestResult();
 //        result.setAttribute("requirement", "CALC-1234");   // Xray will try to create a link to this requirement issue
