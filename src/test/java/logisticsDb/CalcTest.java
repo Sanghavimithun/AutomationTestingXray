@@ -1,13 +1,10 @@
 package logisticsDb;
 
-import static org.testng.Assert.assertEquals;
 
-import org.junit.Assert;
+import static org.junit.Assert.assertEquals;
+
 import org.junit.Before;
 import org.junit.Test;
-import org.testng.ITestResult;
-import org.testng.Reporter;
-import org.testng.annotations.DataProvider;
 
 public class CalcTest {
  
@@ -44,7 +41,7 @@ public class CalcTest {
     @Test
     public void CanAddNumbers()
     {
-        assertEquals(calc.add(2, 3),4);
+        assertEquals(calc.add(2, 3),5);
         assertEquals(calc.add(-1, 1),0);
 //        ITestResult result = Reporter.getCurrentTestResult();
 //        result.setAttribute("requirement", "CALC-1234");   // Xray will try to create a link to this requirement issue
