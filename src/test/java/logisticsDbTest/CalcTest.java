@@ -28,7 +28,7 @@ public class CalcTest {
     public Object[][] ValidDataProvider() {
         return new Object[][]{
             {  1, 2, 3 },
-            {  2, 3, 5 },  // error or the data itself :)
+            {  2, 3, 4 },  // error or the data itself :)
             { -1, 1, 0 }
         };
     }
