@@ -32,13 +32,11 @@ public class GenerateTestReportGUI {
 	public static ExtentReports getReportObject() {
 		 
 		//String fileName = System.currentTimeMillis() + ".html"; 							
-		//SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd-M-yyyy hh-mm-ss");					//To print the report name using time and date format
-		//Date date = new Date(System.currentTimeMillis());
-		//String fileName = simpleDateFormat.format(date)+ ".html"; 
-//String fileName = simpleDateFormat.format(date)+ ".html"; 
-		//System.out.println(fileName); 																	//To print the report name in console using //current time milli seconds
-		String path = System.getProperty("user.dir")+"\\reports\\index"+ ".html"; 	
-//Getting project path dynamically to create a test report file inside the project and storing it in "path" variable
+		SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd-M-yyyy hh-mm-ss");					//To print the report name using time and date format
+		Date date = new Date(System.currentTimeMillis());
+		String fileName = simpleDateFormat.format(date)+ ".html"; 
+		System.out.println(fileName); 																	//To print the report name in console using current time milli seconds
+		String path = System.getProperty("user.dir")+"\\reports\\XPOJiraTicketsResults"+ fileName; 	//Getting project path dynamically to create a test report file inside the project and storing it in "path" variable
 	
 		ExtentSparkReporter reporter = new ExtentSparkReporter(path);   								//Creating object for extentsparkreporter class and giving path where report should be created
 		
