@@ -17,6 +17,10 @@ import java.sql.Date;
 import java.text.SimpleDateFormat;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
+/*import com.aventstack.extentreports.reporter.configuration.ExtentSparkReporterConfig;
+import com.aventstack.extentreports.reporter.configuration.Theme;*/
+
+
 
 /*********************************************************************************************************
  * Creating class for generating html report and defining report configuration for the generated html file
@@ -25,28 +29,50 @@ public class GenerateTestReportGUI {
 	
 	static ExtentReports extent; 			//declaring extent report globally to handle in all subsequents method
 	
+
 	/***************************************************************************************
 	* This function is called after the test case execution completes to generate the report
 	* @return extent
 	****************************************************************************************/
 	public static ExtentReports getReportObject() {
-		 
-		//String fileName = System.currentTimeMillis() + ".html"; 							
-		SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd-M-yyyy hh-mm-ss");					//To print the report name using time and date format
+		/*SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd-M-yyyy hh-mm-ss");				//To print the report name using time and date format
 		Date date = new Date(System.currentTimeMillis());
 		String fileName = simpleDateFormat.format(date)+ ".html"; 
-		System.out.println(fileName); 																	//To print the report name in console using current time milli seconds
-		String path = System.getProperty("user.dir")+"\\reports\\Error"+ fileName; 	//Getting project path dynamically to create a test report file inside the project and storing it in "path" variable
-	
-		ExtentSparkReporter reporter = new ExtentSparkReporter(path);   								//Creating object for extentsparkreporter class and giving path where report should be created
+		System.out.println(fileName); 																//To print the report name in console using current time milli seconds
+		String path = System.getProperty("user.dir")+"\\reports\\FSRepairAssessOtherReports"+ fileName;//Getting project path dynamically to create a test report file inside the project and storing it in "path" variable
+		ExtentSparkReporter reporter = new ExtentSparkReporter(path);   							//Creating object for extentsparkreporter class and giving path where report should be created
+		ExtentSparkReporterConfig config=reporter.config();
+		config.setTheme(Theme.DARK);	
+		config.setCss(".badge-success{background-color:#007bff}");
+		
 		
 		//This method creates HTML file and do some configurations															  						
-		reporter.config().setReportName("API Automation Results"); 										//Setting report name configuration for html file
-		reporter.config().setDocumentTitle("Test Results"); 	   										//Setting document title for html report
-		extent = new ExtentReports(); 							   										//creating extent reports object to drive all reporting execution
-		extent.attachReporter(reporter);                           										//Attaching reports for the main class(ExtentReports)
-		extent.setSystemInfo("Tester", "Sanghavi"); 			   												//defining properties for the report(Giving system information to the test report)
+		config.setReportName("Automation Test Results"); 	//Setting report name configuration for html file
+		reporter.config().setDocumentTitle("Field Service Forms Automation Results"); 	   									//Setting document title for html report
+		extent = new ExtentReports(); 							   									//creating extent reports object to drive all reporting execution
+		extent.attachReporter(reporter);                           									//Attaching reports for the main class(ExtentReports)
+		extent.setSystemInfo("Tester", "QA"); 			   											//defining properties for the report(Giving system information to the test report)
+	    extent.flush();
+	    return extent;*/
+	    
+		//String fileName = System.currentTimeMillis() + ".html"; 							
+		SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd-M-yyyy hh-mm-ss");							//To print the report name using time and date format
+		Date date = new Date(System.currentTimeMillis());
+		String fileName = simpleDateFormat.format(date)+ ".html"; 
+		System.out.println(fileName); 																			//To print the report name in console using current time milli seconds
+		String path = System.getProperty("user.dir")+"\\reports\\FSRepairRepPartsForm"+ fileName; 		//Getting project path dynamically to create a test report file inside the project and storing it in "path" variable
+	
+		ExtentSparkReporter reporter = new ExtentSparkReporter(path);   										//Creating object for extentsparkreporter class and giving path where report should be created
+		
+		//This method creates HTML file and do some configurations															  						
+		reporter.config().setReportName("Web Automation Results"); 	//Setting report name configuration for html file
+		reporter.config().setDocumentTitle("Test Results"); 	   									//Setting document title for html report
+		extent = new ExtentReports(); 							   									//creating extent reports object to drive all reporting execution
+		extent.attachReporter(reporter);                           									//Attaching reports for the main class(ExtentReports)
+		extent.setSystemInfo("Tester", "QA"); 			   											//defining properties for the report(Giving system information to the test report)
+		extent.flush();
 		return extent; 
+		
 	}
 }
 

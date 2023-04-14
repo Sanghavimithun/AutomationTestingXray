@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="logisticsDbTest.CalcTest">
+      <class name="fieldServiceFormsTest.PositiveCheckListGUITest">
         <methods>
-          <include name="setUp"/>
-          <include name="CanAddNumbersFromGivenData" invocation-numbers="1"/>
+          <include name="initialize"/>
+          <include name="gUITestInstallChkradioButtonOptionYes"/>
+          <include name="gUITestInstlChkRadiButtonOptionNo"/>
         </methods>
-      </class> <!-- logisticsDbTest.CalcTest -->
+      </class> <!-- fieldServiceFormsTest.PositiveCheckListGUITest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

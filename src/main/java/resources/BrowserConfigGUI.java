@@ -5,7 +5,7 @@
  *   Offenders will be liable for damages. All rights reserved.
  *------------------------------------------------------------------------------------------------
  *   Purpose:  BrowserConfigGUI.java file
- *   Project:  Logistics
+ *   Project:  Tonal(Test Automation of Field service forms using selenium scripts)
  *   Platform: Cloud Service Provider Independent
  *   Compiler: JavaSE-11
  *   IDE:	   Eclipse IDE for Enterprise Java and Web Developers (includes Incubating components)
@@ -24,6 +24,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+//import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
@@ -45,9 +46,9 @@ public class BrowserConfigGUI {
     
     prop= new Properties(); 			//Creating object of the class to read .properties file
     
-    //options = new ChromeOptions();  	//- for headlessmode
+    //options = new ChromeOptions();  //- for headlessmode
     
-    FileInputStream inputStream = new FileInputStream("C:\\Users\\DELL\\git\\repository\\Logistics\\src\\main\\java\\resources\\GuiUrl.properties"); 	//To tell properties class where exactly where file is present 
+    FileInputStream inputStream = new FileInputStream("D:\\FieldServiceAutomation\\FieldServiceApps\\src\\main\\java\\resources\\GUI_URL.properties"); 	//To tell properties class where exactly where file is present 
     																																//creating object of file by class
     													   																			//FileInputStream - To read data
     
@@ -83,8 +84,8 @@ public class BrowserConfigGUI {
     
 
 /****************************************************************************************
- * This function is called when user wants to takes screenshot of the failed testcase.
- * @param String testCaseName(Used to get the name of the testcases written)
+ * This function is called when user wants to takes screenshot of the failed test case.
+ * @param String testCaseName(Used to get the name of the test cases written)
  * @param WebDriver driver(Used to call the Chrome Driver).
  * @return destinationfile
 *****************************************************************************************/
@@ -103,7 +104,7 @@ public String gUIgetScreenShotPath(String testCaseName,WebDriver driver) throws 
 
 /**************************************************************
   * This function is used to decode the password for login page
-  * @param String password
+  * @param String password 
   * @return decodedstring value
   **************************************************************/
 protected static String gUIdecodePwd(String password){

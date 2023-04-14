@@ -3,13 +3,19 @@
 <suite name="Suite" parallel="false">  
 
 <listeners>
-<listener class-name="listeners.Listeners"/> 
+<listener class-name="listeners.FormsGUIListeners"/> 
 </listeners>
 
 <test thread-count="5" name="Tests">
     <classes>
-      <class name="logisticsDb.CalcTest"/>
+      
+    
+     
+     <class name="fieldServiceFormsTest.PositiveCheckListGUITest"/>
+    
+     
     </classes>
  </test> <!-- Test -->
+
 </suite> <!-- Suite -->
 
