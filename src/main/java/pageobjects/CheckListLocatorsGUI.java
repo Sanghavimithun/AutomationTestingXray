@@ -351,7 +351,7 @@ import org.openqa.selenium.WebElement;
 		 *******************************************************/
 	     public WebElement installationPerformedNo()
 	     {
-		   return driver.findElement(installationPerformedNo); 			//Finding element of the InstallationPerformedNo field and returning it
+		   return driver.findElement(installationPerformed); 			//Finding element of the InstallationPerformedNo field and returning it
 	     }
 	   
 	   
