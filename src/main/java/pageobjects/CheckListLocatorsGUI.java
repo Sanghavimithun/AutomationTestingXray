@@ -344,14 +344,14 @@ import org.openqa.selenium.WebElement;
 		   return driver.findElement(comments); 						 //Finding element of the Comments field and returning it
 	     }
 
-	     By installationPerformedNo = By.id("InstallationPerformedNo");  //Passing ID InstallationPerformedNo for field in checklist
+	     By installationPerformedNo = By.id("InstallationPerformed");  //Passing ID InstallationPerformedNo for field in checklist
 	     /********************************************************
 		 * Creating Comments field method to pass LOCATOR OBJECT
 		 * @return the WebElement
 		 *******************************************************/
 	     public WebElement installationPerformedNo()
 	     {
-		   return driver.findElement(installationPerformed); 			//Finding element of the InstallationPerformedNo field and returning it
+		   return driver.findElement(installationPerformedNo); 			//Finding element of the InstallationPerformedNo field and returning it
 	     }
 	   
 	   
