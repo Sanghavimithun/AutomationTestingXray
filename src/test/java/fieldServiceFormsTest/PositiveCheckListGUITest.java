@@ -99,8 +99,8 @@ public class PositiveCheckListGUITest extends BrowserConfigGUI {
 		
 		
 		//Sending random character varying(max length 50) to the Installername text field
-		JavascriptExecutor name = (JavascriptExecutor)driver; 						
-		name.executeScript ("arguments[0].value='There were acoupl2176471865786156187781561 7635213';", locate.installerName());  
+		//JavascriptExecutor name = (JavascriptExecutor)driver; 						
+		//name.executeScript ("arguments[0].value='There were acoupl2176471865786156187781561 7635213';", locate.installerName());  
 		
 		locate.installationPerformedYes().click();   //This is used to click on "Can Installation Be Performed?" radio button 
 		
